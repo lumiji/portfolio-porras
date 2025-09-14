@@ -5,7 +5,7 @@ loraine. is a personal portfolio website of Jessie Loraine Porras showcasing som
 
 
 Live Demo
-View Portolio here:
+View Portolio here: https://lumiji.github.io/portfolio-porras/
 
 
 
