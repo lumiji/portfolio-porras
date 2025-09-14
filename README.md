@@ -15,7 +15,9 @@ This portfolio website introduces Jessie Loraine, highlighting her background, e
 
 What's included?
 
-- dedicated pages for each featured projects showing Jessie Loraine's role in the development of the project along with images of the final output. 
+- dedicated pages for each featured project showing Jessie Loraine's role in the development of the project, along with images of the final output.
+  How to access? Just click their corresponding cards in the "Works" page to redirect.
+  To navigate between the different work pages and return to the main "Works" page, use the navigation bar by clicking the "Works" tab.
 
 - social media links of Jessie Loraine
 
